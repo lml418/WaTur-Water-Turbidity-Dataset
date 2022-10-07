@@ -1,4 +1,4 @@
-# Estimating-Water-Turbidity-From-A-Smartphome-Camera
+# WaTur: Water turbidity dataset
 This is the repository for the data around the Paper 880 from the BMVC called Estimating Water Turbidity From A Smartphone Camera
 
 
